@@ -2,6 +2,5 @@
 
 My name is Alejandro Armenta and I like self-driving cars!
 
-update-readme branch
+Updates made on main on GitHub before rebase.
 
-Updated Locally
